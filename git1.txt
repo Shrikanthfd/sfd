@@ -1,0 +1,27 @@
+hi hello
+hello welcom git
+git hub
+
+
+git 
+
+
+
+
+cd desktop
+
+cd folder name
+
+pwd
+
+ls
+
+git init
+
+git add .
+
+git commit
+
+
+git status
+
